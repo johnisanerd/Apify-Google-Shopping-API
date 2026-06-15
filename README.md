@@ -287,4 +287,10 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google Shopping API to power price comparison, deal tracking, and competitive monitoring with reliable, structured results.*
 
+## Featured Tasks
+
+Ready-to-run examples on the Apify Store.
+
+- [Export Google Shopping Products to CSV](https://apify.com/johnvc/google-shopping-api-google-shopping-products-prices-deals/examples/export-google-shopping-products-to-csv?fpr=9n7kx3)
+
 Last Updated: 2026.05.30
